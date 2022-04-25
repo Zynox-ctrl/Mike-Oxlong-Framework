@@ -60,7 +60,7 @@ print('''
 print(Fore.LIGHTRED_EX)
 print('                  -------------------------------------------------------------------------------------SESSION STARTED----------------------------------------------------------------------------------------- by Feciouss')
 
-print(Fore.LIGHTMAGENTA_EX + '                                                                                      [!]---------Please wait while we start your toolbox---------')
+print(Fore.LIGHTMAGENTA_EX + '                                                                                      [!]---------Please wait while we start your toolbox Version 1.0.0 ---------')
 print(Fore.LIGHTMAGENTA_EX)
 print('                                                            [!]Join the M.O Discord Server for support, the latest updates and newest versions here ---> https://discord.gg/hMrJtWUZab')
 time.sleep(3.65)
