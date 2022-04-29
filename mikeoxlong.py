@@ -8,7 +8,6 @@ import pyfiglet
 from pyfiglet import Figlet
 import colorama
 from colorama import Fore
-import DDoS
 import socket
 import portscanner
 import concurrent.futures
