@@ -1,0 +1,5 @@
+pynput
+discord.py
+pyfiglet
+pyautogui
+colorama
