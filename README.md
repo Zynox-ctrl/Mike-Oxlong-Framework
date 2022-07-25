@@ -5,10 +5,8 @@ To get started make sure you have python installed and pip,
 Unzip the ZIP folder,
 Open a cmd and type the following:
 
-Windows:  py -3 -m pip install -U pynput , py -3 -m pip install -U discord.py , py -3 -m pip install -U pyfiglet , py -3 -m pip install -U pyautogui , py -3 -m pip install -U colorama
+Windows:  py -3 -m pip install -r requirements.txt
 
-Linux/MacOS: python3 -m pip install -U pynput , python3 -m pip install -U  discord.py , python3 -m pip install -U pyfiglet , python3 -m pip install -U pyautogui , python3 -m pip install -U colorama
+Linux/MacOS: python3 -m pip install -r requirements.txt
 
 Then run the "mikeoxlong.py" file.
-
-
